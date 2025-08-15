@@ -24,7 +24,7 @@ from cross_validation_metrics import get_cross_validation_metrics
 
 #Params
 NUM_EPOCHS = 50
-model_name = 'mobilenet'
+model_name = 'mobilenet' #['resnet-50','vgg-16','mobilenet']
 lr = 0.00001
 
 
@@ -52,17 +52,19 @@ for i in range(0,5):
     loss_fn = nn.CrossEntropyLoss()
     optimizer = optim.Adam(model.parameters(), lr=lr)
     
-    log_path = os.path.join(RESULT_PATH, "folder" + str(i), "log")
+    print("Folder:" + str(i + 1))
+    
+    log_path = os.path.join(RESULT_PATH, "folder" + str(i+1), "log")
     
     fit_model(model, train_data_loader[i], val_data_loader[i], optimizer=optimizer, loss_fn=loss_fn, epochs=NUM_EPOCHS, save_folder=log_path)
     
     _metric_options_train = {
-        'save_all_path': os.path.join(RESULT_PATH, "folder" + str(i), "train_metrics"),
+        'save_all_path': os.path.join(RESULT_PATH, "folder" + str(i+1), "train_metrics"),
         'pred_name_scores': 'predictions_best_test.csv',
         'normalize_conf_matrix': True}
     
     _metric_options = {
-        'save_all_path': os.path.join(RESULT_PATH, "folder" + str(i), "val_metrics"),
+        'save_all_path': os.path.join(RESULT_PATH, "folder" + str(i+1), "val_metrics"),
         'pred_name_scores': 'predictions_best_test.csv',
         'normalize_conf_matrix': True}
     

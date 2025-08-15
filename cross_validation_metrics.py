@@ -25,7 +25,7 @@ def _get_cross_validation_acurracy(path):
     real = np.array([])
     pred = np.array([])
     for i in range(0,5):
-        file_path = os.path.join(path, "folder" + str(i), "val_metrics","predictions_best_test.csv")
+        file_path = os.path.join(path, "folder" + str(i+1), "val_metrics","predictions_best_test.csv")
         arq = pd.read_csv(file_path)
         real = np.append(real, arq['REAL'])
         pred = np.append(pred, arq['PRED'])
@@ -36,7 +36,7 @@ def _get_cross_validation_balenced_accurracy(path):
     real = np.array([])
     pred = np.array([])
     for i in range(0,5):
-        file_path = os.path.join(path, "folder" + str(i), "val_metrics","predictions_best_test.csv")
+        file_path = os.path.join(path, "folder" + str(i+1), "val_metrics","predictions_best_test.csv")
         arq = pd.read_csv(file_path)
         real = np.append(real, arq['REAL'])
         pred = np.append(pred, arq['PRED'])
@@ -47,7 +47,7 @@ def _get_precision_recall_cross_validation(path, label_names):
     real = np.array([])
     pred = np.array([])
     for i in range(0,5):
-        file_path = os.path.join(path, "folder" + str(i), "val_metrics","predictions_best_test.csv")
+        file_path = os.path.join(path, "folder" + str(i+1), "val_metrics","predictions_best_test.csv")
         arq = pd.read_csv(file_path)
         real = np.append(real, arq['REAL'])
         pred = np.append(pred, arq['PRED'])
@@ -58,7 +58,7 @@ def _get_confusion_matrix_cross_validation(path, label_names):
     real = np.array([])
     pred = np.array([])
     for i in range(0,5):
-        file_path = os.path.join(path, "folder" + str(i), "val_metrics","predictions_best_test.csv")
+        file_path = os.path.join(path, "folder" + str(i+1), "val_metrics","predictions_best_test.csv")
         arq = pd.read_csv(file_path)
         real = np.append(real, arq['REAL'])
         pred = np.append(pred, arq['PRED'])
