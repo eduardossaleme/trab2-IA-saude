@@ -1,0 +1,26 @@
+- METRICS REPORT -
+
+- Loss: 0.123
+- Accuracy: 0.969
+- Top 2 accuracy: 0.991
+- Balanced accuracy: 0.970
+- Confusion Matrix: 
+[[0.94904459 0.05095541 0.         0.        ]
+ [0.01265823 0.97468354 0.01265823 0.        ]
+ [0.         0.01923077 0.98076923 0.        ]
+ [0.02380952 0.         0.         0.97619048]]
+- Precision and Recall report: 
+                  precision    recall  f1-score   support
+
+    glioma_tumor       0.97      0.95      0.96       157
+meningioma_tumor       0.93      0.97      0.95       158
+ pituitary_tumor       0.99      0.98      0.98       156
+        no_tumor       1.00      0.98      0.99        84
+
+        accuracy                           0.97       555
+       macro avg       0.97      0.97      0.97       555
+    weighted avg       0.97      0.97      0.97       555
+
+- AUC:
+ {'glioma_tumor': 0.9903498383637934, 'meningioma_tumor': 0.9941650990020088, 'pituitary_tumor': 0.9995180258338152, 'no_tumor': 0.99989889798807, 'macro': 0.9961469747701172, 'micro': 0.9962145929713496}
+- AUC: 0.996

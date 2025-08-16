@@ -1,0 +1,3732 @@
+2025-08-16 09:13:59,985 - Train-Logger - INFO - Starting the training phase
+2025-08-16 09:13:59,985 - Train-Logger - INFO - No early stopping is set
+2025-08-16 09:13:59,985 - Train-Logger - INFO - The model will be trained from scratch
+2025-08-16 09:13:59,985 - Train-Logger - INFO - The training will be carry out using 1 GPU:
+2025-08-16 09:13:59,986 - Train-Logger - INFO - NVIDIA GeForce RTX 3060 Laptop GPU
+2025-08-16 09:14:15,067 - Train-Logger - INFO - Metrics for epoch 1 out of 50
+- Train
+-- Loss: 1.330
+-- Acc: 43.725
+-- Top 2 acc: 66.392
+
+- Validation
+-- Loss: 1.232
+-- Acc: 62.456
+-- Top 2 acc: 80.702
+-- Balanced accuracy: 0.594
+-- AUC: 0.870
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 1.232
+-- Best loss so far: 1.232 on epoch 1
+
+2025-08-16 09:14:30,119 - Train-Logger - INFO - Metrics for epoch 2 out of 50
+- Train
+-- Loss: 1.135
+-- Acc: 61.382
+-- Top 2 acc: 83.733
+
+- Validation
+-- Loss: 0.953
+-- Acc: 79.825
+-- Top 2 acc: 92.632
+-- Balanced accuracy: 0.783
+-- AUC: 0.945
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.953
+-- Best loss so far: 0.953 on epoch 2
+
+2025-08-16 09:14:45,069 - Train-Logger - INFO - Metrics for epoch 3 out of 50
+- Train
+-- Loss: 0.885
+-- Acc: 71.295
+-- Top 2 acc: 90.624
+
+- Validation
+-- Loss: 0.661
+-- Acc: 84.211
+-- Top 2 acc: 94.561
+-- Balanced accuracy: 0.837
+-- AUC: 0.961
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.661
+-- Best loss so far: 0.661 on epoch 3
+
+2025-08-16 09:15:00,162 - Train-Logger - INFO - Metrics for epoch 4 out of 50
+- Train
+-- Loss: 0.687
+-- Acc: 78.234
+-- Top 2 acc: 93.152
+
+- Validation
+-- Loss: 0.505
+-- Acc: 86.842
+-- Top 2 acc: 96.491
+-- Balanced accuracy: 0.872
+-- AUC: 0.970
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.505
+-- Best loss so far: 0.505 on epoch 4
+
+2025-08-16 09:15:15,121 - Train-Logger - INFO - Metrics for epoch 5 out of 50
+- Train
+-- Loss: 0.554
+-- Acc: 81.665
+-- Top 2 acc: 95.495
+
+- Validation
+-- Loss: 0.398
+-- Acc: 89.474
+-- Top 2 acc: 96.842
+-- Balanced accuracy: 0.895
+-- AUC: 0.980
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.398
+-- Best loss so far: 0.398 on epoch 5
+
+2025-08-16 09:15:30,221 - Train-Logger - INFO - Metrics for epoch 6 out of 50
+- Train
+-- Loss: 0.451
+-- Acc: 85.356
+-- Top 2 acc: 96.036
+
+- Validation
+-- Loss: 0.337
+-- Acc: 89.474
+-- Top 2 acc: 97.193
+-- Balanced accuracy: 0.901
+-- AUC: 0.984
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.337
+-- Best loss so far: 0.337 on epoch 6
+
+2025-08-16 09:15:45,386 - Train-Logger - INFO - Metrics for epoch 7 out of 50
+- Train
+-- Loss: 0.380
+-- Acc: 87.069
+-- Top 2 acc: 96.440
+
+- Validation
+-- Loss: 0.290
+-- Acc: 90.702
+-- Top 2 acc: 97.193
+-- Balanced accuracy: 0.912
+-- AUC: 0.987
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.290
+-- Best loss so far: 0.290 on epoch 7
+
+2025-08-16 09:16:00,500 - Train-Logger - INFO - Metrics for epoch 8 out of 50
+- Train
+-- Loss: 0.330
+-- Acc: 88.958
+-- Top 2 acc: 97.294
+
+- Validation
+-- Loss: 0.273
+-- Acc: 91.404
+-- Top 2 acc: 97.719
+-- Balanced accuracy: 0.919
+-- AUC: 0.989
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.273
+-- Best loss so far: 0.273 on epoch 8
+
+2025-08-16 09:16:15,544 - Train-Logger - INFO - Metrics for epoch 9 out of 50
+- Train
+-- Loss: 0.293
+-- Acc: 90.179
+-- Top 2 acc: 98.108
+
+- Validation
+-- Loss: 0.250
+-- Acc: 92.632
+-- Top 2 acc: 97.895
+-- Balanced accuracy: 0.931
+-- AUC: 0.991
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.250
+-- Best loss so far: 0.250 on epoch 9
+
+2025-08-16 09:16:30,581 - Train-Logger - INFO - Metrics for epoch 10 out of 50
+- Train
+-- Loss: 0.251
+-- Acc: 91.709
+-- Top 2 acc: 97.793
+
+- Validation
+-- Loss: 0.227
+-- Acc: 92.632
+-- Top 2 acc: 97.895
+-- Balanced accuracy: 0.931
+-- AUC: 0.992
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.227
+-- Best loss so far: 0.227 on epoch 10
+
+2025-08-16 09:16:45,578 - Train-Logger - INFO - Metrics for epoch 11 out of 50
+- Train
+-- Loss: 0.225
+-- Acc: 92.745
+-- Top 2 acc: 98.332
+
+- Validation
+-- Loss: 0.218
+-- Acc: 93.158
+-- Top 2 acc: 98.070
+-- Balanced accuracy: 0.937
+-- AUC: 0.992
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.218
+-- Best loss so far: 0.218 on epoch 11
+
+2025-08-16 09:17:00,654 - Train-Logger - INFO - Metrics for epoch 12 out of 50
+- Train
+-- Loss: 0.209
+-- Acc: 93.736
+-- Top 2 acc: 98.737
+
+- Validation
+-- Loss: 0.199
+-- Acc: 93.333
+-- Top 2 acc: 97.719
+-- Balanced accuracy: 0.937
+-- AUC: 0.993
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.199
+-- Best loss so far: 0.199 on epoch 12
+
+2025-08-16 09:17:15,803 - Train-Logger - INFO - Metrics for epoch 13 out of 50
+- Train
+-- Loss: 0.182
+-- Acc: 94.143
+-- Top 2 acc: 98.872
+
+- Validation
+-- Loss: 0.197
+-- Acc: 93.860
+-- Top 2 acc: 98.421
+-- Balanced accuracy: 0.943
+-- AUC: 0.993
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.197
+-- Best loss so far: 0.197 on epoch 13
+
+2025-08-16 09:17:30,886 - Train-Logger - INFO - Metrics for epoch 14 out of 50
+- Train
+-- Loss: 0.164
+-- Acc: 95.135
+-- Top 2 acc: 99.369
+
+- Validation
+-- Loss: 0.186
+-- Acc: 94.386
+-- Top 2 acc: 98.596
+-- Balanced accuracy: 0.948
+-- AUC: 0.994
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.186
+-- Best loss so far: 0.186 on epoch 14
+
+2025-08-16 09:17:45,982 - Train-Logger - INFO - Metrics for epoch 15 out of 50
+- Train
+-- Loss: 0.145
+-- Acc: 95.541
+-- Top 2 acc: 99.099
+
+- Validation
+-- Loss: 0.191
+-- Acc: 93.860
+-- Top 2 acc: 98.070
+-- Balanced accuracy: 0.943
+-- AUC: 0.993
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.186 on epoch 14
+
+2025-08-16 09:18:01,023 - Train-Logger - INFO - Metrics for epoch 16 out of 50
+- Train
+-- Loss: 0.144
+-- Acc: 94.955
+-- Top 2 acc: 99.099
+
+- Validation
+-- Loss: 0.175
+-- Acc: 94.386
+-- Top 2 acc: 98.421
+-- Balanced accuracy: 0.948
+-- AUC: 0.994
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.175
+-- Best loss so far: 0.175 on epoch 16
+
+2025-08-16 09:18:16,176 - Train-Logger - INFO - Metrics for epoch 17 out of 50
+- Train
+-- Loss: 0.136
+-- Acc: 95.674
+-- Top 2 acc: 99.054
+
+- Validation
+-- Loss: 0.166
+-- Acc: 94.737
+-- Top 2 acc: 98.596
+-- Balanced accuracy: 0.952
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.166
+-- Best loss so far: 0.166 on epoch 17
+
+2025-08-16 09:18:31,228 - Train-Logger - INFO - Metrics for epoch 18 out of 50
+- Train
+-- Loss: 0.120
+-- Acc: 96.306
+-- Top 2 acc: 99.324
+
+- Validation
+-- Loss: 0.165
+-- Acc: 94.737
+-- Top 2 acc: 99.298
+-- Balanced accuracy: 0.952
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.165
+-- Best loss so far: 0.165 on epoch 18
+
+2025-08-16 09:18:46,337 - Train-Logger - INFO - Metrics for epoch 19 out of 50
+- Train
+-- Loss: 0.105
+-- Acc: 96.845
+-- Top 2 acc: 99.593
+
+- Validation
+-- Loss: 0.163
+-- Acc: 94.737
+-- Top 2 acc: 98.772
+-- Balanced accuracy: 0.952
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.163
+-- Best loss so far: 0.163 on epoch 19
+
+2025-08-16 09:19:01,477 - Train-Logger - INFO - Metrics for epoch 20 out of 50
+- Train
+-- Loss: 0.100
+-- Acc: 97.297
+-- Top 2 acc: 99.459
+
+- Validation
+-- Loss: 0.140
+-- Acc: 95.789
+-- Top 2 acc: 99.298
+-- Balanced accuracy: 0.961
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.140
+-- Best loss so far: 0.140 on epoch 20
+
+2025-08-16 09:19:16,536 - Train-Logger - INFO - Metrics for epoch 21 out of 50
+- Train
+-- Loss: 0.099
+-- Acc: 96.937
+-- Top 2 acc: 99.640
+
+- Validation
+-- Loss: 0.147
+-- Acc: 95.088
+-- Top 2 acc: 98.947
+-- Balanced accuracy: 0.954
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.140 on epoch 20
+
+2025-08-16 09:19:31,627 - Train-Logger - INFO - Metrics for epoch 22 out of 50
+- Train
+-- Loss: 0.101
+-- Acc: 96.619
+-- Top 2 acc: 99.550
+
+- Validation
+-- Loss: 0.150
+-- Acc: 94.912
+-- Top 2 acc: 98.772
+-- Balanced accuracy: 0.953
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 2 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.140 on epoch 20
+
+2025-08-16 09:19:46,728 - Train-Logger - INFO - Metrics for epoch 23 out of 50
+- Train
+-- Loss: 0.090
+-- Acc: 97.161
+-- Top 2 acc: 99.279
+
+- Validation
+-- Loss: 0.147
+-- Acc: 95.439
+-- Top 2 acc: 98.947
+-- Balanced accuracy: 0.959
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 3 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.140 on epoch 20
+
+2025-08-16 09:20:01,844 - Train-Logger - INFO - Metrics for epoch 24 out of 50
+- Train
+-- Loss: 0.086
+-- Acc: 97.474
+-- Top 2 acc: 99.550
+
+- Validation
+-- Loss: 0.140
+-- Acc: 94.737
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.951
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.140
+-- Best loss so far: 0.140 on epoch 24
+
+2025-08-16 09:20:16,993 - Train-Logger - INFO - Metrics for epoch 25 out of 50
+- Train
+-- Loss: 0.077
+-- Acc: 97.613
+-- Top 2 acc: 99.640
+
+- Validation
+-- Loss: 0.131
+-- Acc: 96.491
+-- Top 2 acc: 99.298
+-- Balanced accuracy: 0.968
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.131
+-- Best loss so far: 0.131 on epoch 25
+
+2025-08-16 09:20:32,041 - Train-Logger - INFO - Metrics for epoch 26 out of 50
+- Train
+-- Loss: 0.062
+-- Acc: 98.243
+-- Top 2 acc: 99.685
+
+- Validation
+-- Loss: 0.146
+-- Acc: 94.561
+-- Top 2 acc: 98.772
+-- Balanced accuracy: 0.949
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.131 on epoch 25
+
+2025-08-16 09:20:47,270 - Train-Logger - INFO - Metrics for epoch 27 out of 50
+- Train
+-- Loss: 0.064
+-- Acc: 98.333
+-- Top 2 acc: 99.730
+
+- Validation
+-- Loss: 0.142
+-- Acc: 95.789
+-- Top 2 acc: 98.947
+-- Balanced accuracy: 0.962
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 2 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.131 on epoch 25
+
+2025-08-16 09:21:02,414 - Train-Logger - INFO - Metrics for epoch 28 out of 50
+- Train
+-- Loss: 0.069
+-- Acc: 97.881
+-- Top 2 acc: 99.730
+
+- Validation
+-- Loss: 0.130
+-- Acc: 95.263
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.954
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.130
+-- Best loss so far: 0.130 on epoch 28
+
+2025-08-16 09:21:17,637 - Train-Logger - INFO - Metrics for epoch 29 out of 50
+- Train
+-- Loss: 0.067
+-- Acc: 97.928
+-- Top 2 acc: 99.730
+
+- Validation
+-- Loss: 0.153
+-- Acc: 95.263
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.957
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.130 on epoch 28
+
+2025-08-16 09:21:32,860 - Train-Logger - INFO - Metrics for epoch 30 out of 50
+- Train
+-- Loss: 0.057
+-- Acc: 98.063
+-- Top 2 acc: 99.640
+
+- Validation
+-- Loss: 0.136
+-- Acc: 95.789
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.961
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 2 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.130 on epoch 28
+
+2025-08-16 09:21:48,054 - Train-Logger - INFO - Metrics for epoch 31 out of 50
+- Train
+-- Loss: 0.062
+-- Acc: 98.378
+-- Top 2 acc: 99.775
+
+- Validation
+-- Loss: 0.142
+-- Acc: 95.614
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.959
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 3 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.130 on epoch 28
+
+2025-08-16 09:22:03,286 - Train-Logger - INFO - Metrics for epoch 32 out of 50
+- Train
+-- Loss: 0.059
+-- Acc: 97.928
+-- Top 2 acc: 99.820
+
+- Validation
+-- Loss: 0.146
+-- Acc: 94.737
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.951
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 4 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.130 on epoch 28
+
+2025-08-16 09:22:18,442 - Train-Logger - INFO - Metrics for epoch 33 out of 50
+- Train
+-- Loss: 0.048
+-- Acc: 98.694
+-- Top 2 acc: 99.865
+
+- Validation
+-- Loss: 0.159
+-- Acc: 95.088
+-- Top 2 acc: 98.596
+-- Balanced accuracy: 0.956
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 5 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.130 on epoch 28
+
+2025-08-16 09:22:33,615 - Train-Logger - INFO - Metrics for epoch 34 out of 50
+- Train
+-- Loss: 0.047
+-- Acc: 98.872
+-- Top 2 acc: 100.000
+
+- Validation
+-- Loss: 0.137
+-- Acc: 95.439
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.957
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 6 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.130 on epoch 28
+
+2025-08-16 09:22:48,895 - Train-Logger - INFO - Metrics for epoch 35 out of 50
+- Train
+-- Loss: 0.045
+-- Acc: 98.739
+-- Top 2 acc: 99.820
+
+- Validation
+-- Loss: 0.143
+-- Acc: 95.263
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.956
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 7 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.130 on epoch 28
+
+2025-08-16 09:23:04,112 - Train-Logger - INFO - Metrics for epoch 36 out of 50
+- Train
+-- Loss: 0.048
+-- Acc: 98.514
+-- Top 2 acc: 99.910
+
+- Validation
+-- Loss: 0.150
+-- Acc: 95.965
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.961
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 8 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.130 on epoch 28
+
+2025-08-16 09:23:19,295 - Train-Logger - INFO - Metrics for epoch 37 out of 50
+- Train
+-- Loss: 0.046
+-- Acc: 98.784
+-- Top 2 acc: 99.865
+
+- Validation
+-- Loss: 0.136
+-- Acc: 95.439
+-- Top 2 acc: 99.298
+-- Balanced accuracy: 0.958
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 9 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.130 on epoch 28
+
+2025-08-16 09:23:34,601 - Train-Logger - INFO - Metrics for epoch 38 out of 50
+- Train
+-- Loss: 0.049
+-- Acc: 98.649
+-- Top 2 acc: 99.865
+
+- Validation
+-- Loss: 0.128
+-- Acc: 95.965
+-- Top 2 acc: 99.474
+-- Balanced accuracy: 0.961
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.128
+-- Best loss so far: 0.128 on epoch 38
+
+2025-08-16 09:23:49,765 - Train-Logger - INFO - Metrics for epoch 39 out of 50
+- Train
+-- Loss: 0.043
+-- Acc: 98.784
+-- Top 2 acc: 99.865
+
+- Validation
+-- Loss: 0.141
+-- Acc: 95.088
+-- Top 2 acc: 99.474
+-- Balanced accuracy: 0.951
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.128 on epoch 38
+
+2025-08-16 09:24:04,905 - Train-Logger - INFO - Metrics for epoch 40 out of 50
+- Train
+-- Loss: 0.035
+-- Acc: 99.144
+-- Top 2 acc: 99.955
+
+- Validation
+-- Loss: 0.125
+-- Acc: 96.667
+-- Top 2 acc: 99.474
+-- Balanced accuracy: 0.967
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.125
+-- Best loss so far: 0.125 on epoch 40
+
+2025-08-16 09:24:20,098 - Train-Logger - INFO - Metrics for epoch 41 out of 50
+- Train
+-- Loss: 0.039
+-- Acc: 98.739
+-- Top 2 acc: 99.910
+
+- Validation
+-- Loss: 0.136
+-- Acc: 95.965
+-- Top 2 acc: 99.474
+-- Balanced accuracy: 0.962
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.125 on epoch 40
+
+2025-08-16 09:24:35,283 - Train-Logger - INFO - Metrics for epoch 42 out of 50
+- Train
+-- Loss: 0.043
+-- Acc: 98.919
+-- Top 2 acc: 99.910
+
+- Validation
+-- Loss: 0.122
+-- Acc: 96.667
+-- Top 2 acc: 99.298
+-- Balanced accuracy: 0.967
+-- AUC: 0.997
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.122
+-- Best loss so far: 0.122 on epoch 42
+
+2025-08-16 09:24:50,512 - Train-Logger - INFO - Metrics for epoch 43 out of 50
+- Train
+-- Loss: 0.040
+-- Acc: 98.649
+-- Top 2 acc: 99.775
+
+- Validation
+-- Loss: 0.145
+-- Acc: 95.614
+-- Top 2 acc: 99.298
+-- Balanced accuracy: 0.958
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.122 on epoch 42
+
+2025-08-16 09:25:05,757 - Train-Logger - INFO - Metrics for epoch 44 out of 50
+- Train
+-- Loss: 0.040
+-- Acc: 98.691
+-- Top 2 acc: 99.910
+
+- Validation
+-- Loss: 0.131
+-- Acc: 95.614
+-- Top 2 acc: 99.649
+-- Balanced accuracy: 0.958
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 2 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.122 on epoch 42
+
+2025-08-16 09:25:20,981 - Train-Logger - INFO - Metrics for epoch 45 out of 50
+- Train
+-- Loss: 0.040
+-- Acc: 98.737
+-- Top 2 acc: 99.820
+
+- Validation
+-- Loss: 0.141
+-- Acc: 95.439
+-- Top 2 acc: 99.298
+-- Balanced accuracy: 0.956
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 3 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.122 on epoch 42
+
+2025-08-16 09:25:36,284 - Train-Logger - INFO - Metrics for epoch 46 out of 50
+- Train
+-- Loss: 0.038
+-- Acc: 98.649
+-- Top 2 acc: 99.865
+
+- Validation
+-- Loss: 0.139
+-- Acc: 95.088
+-- Top 2 acc: 99.474
+-- Balanced accuracy: 0.953
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 4 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.122 on epoch 42
+
+2025-08-16 09:25:51,493 - Train-Logger - INFO - Metrics for epoch 47 out of 50
+- Train
+-- Loss: 0.037
+-- Acc: 98.964
+-- Top 2 acc: 99.955
+
+- Validation
+-- Loss: 0.127
+-- Acc: 96.491
+-- Top 2 acc: 99.649
+-- Balanced accuracy: 0.966
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 5 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.122 on epoch 42
+
+2025-08-16 09:26:06,766 - Train-Logger - INFO - Metrics for epoch 48 out of 50
+- Train
+-- Loss: 0.021
+-- Acc: 99.505
+-- Top 2 acc: 100.000
+
+- Validation
+-- Loss: 0.128
+-- Acc: 95.965
+-- Top 2 acc: 99.649
+-- Balanced accuracy: 0.964
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 6 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.122 on epoch 42
+
+2025-08-16 09:26:22,042 - Train-Logger - INFO - Metrics for epoch 49 out of 50
+- Train
+-- Loss: 0.029
+-- Acc: 99.324
+-- Top 2 acc: 99.820
+
+- Validation
+-- Loss: 0.121
+-- Acc: 96.140
+-- Top 2 acc: 99.649
+-- Balanced accuracy: 0.964
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.121
+-- Best loss so far: 0.121 on epoch 49
+
+2025-08-16 09:26:37,279 - Train-Logger - INFO - Metrics for epoch 50 out of 50
+- Train
+-- Loss: 0.027
+-- Acc: 99.279
+-- Top 2 acc: 99.910
+
+- Validation
+-- Loss: 0.146
+-- Acc: 95.965
+-- Top 2 acc: 99.298
+-- Balanced accuracy: 0.964
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.121 on epoch 49
+
+2025-08-16 09:26:44,942 - Train-Logger - INFO - Starting the training phase
+2025-08-16 09:26:44,942 - Train-Logger - INFO - No early stopping is set
+2025-08-16 09:26:44,942 - Train-Logger - INFO - The model will be trained from scratch
+2025-08-16 09:26:44,942 - Train-Logger - INFO - The training will be carry out using 1 GPU:
+2025-08-16 09:26:44,942 - Train-Logger - INFO - NVIDIA GeForce RTX 3060 Laptop GPU
+2025-08-16 09:27:00,168 - Train-Logger - INFO - Metrics for epoch 1 out of 50
+- Train
+-- Loss: 1.303
+-- Acc: 46.660
+-- Top 2 acc: 71.034
+
+- Validation
+-- Loss: 1.184
+-- Acc: 66.140
+-- Top 2 acc: 84.912
+-- Balanced accuracy: 0.599
+-- AUC: 0.894
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 1.184
+-- Best loss so far: 1.184 on epoch 1
+
+2025-08-16 09:27:15,443 - Train-Logger - INFO - Metrics for epoch 2 out of 50
+- Train
+-- Loss: 1.082
+-- Acc: 62.961
+-- Top 2 acc: 84.545
+
+- Validation
+-- Loss: 0.879
+-- Acc: 76.316
+-- Top 2 acc: 92.456
+-- Balanced accuracy: 0.728
+-- AUC: 0.943
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.879
+-- Best loss so far: 0.879 on epoch 2
+
+2025-08-16 09:27:30,701 - Train-Logger - INFO - Metrics for epoch 3 out of 50
+- Train
+-- Loss: 0.850
+-- Acc: 71.482
+-- Top 2 acc: 90.269
+
+- Validation
+-- Loss: 0.669
+-- Acc: 80.000
+-- Top 2 acc: 95.439
+-- Balanced accuracy: 0.788
+-- AUC: 0.956
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.669
+-- Best loss so far: 0.669 on epoch 3
+
+2025-08-16 09:27:45,888 - Train-Logger - INFO - Metrics for epoch 4 out of 50
+- Train
+-- Loss: 0.667
+-- Acc: 78.779
+-- Top 2 acc: 94.323
+
+- Validation
+-- Loss: 0.524
+-- Acc: 82.105
+-- Top 2 acc: 96.491
+-- Balanced accuracy: 0.816
+-- AUC: 0.961
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.524
+-- Best loss so far: 0.524 on epoch 4
+
+2025-08-16 09:28:01,192 - Train-Logger - INFO - Metrics for epoch 5 out of 50
+- Train
+-- Loss: 0.555
+-- Acc: 81.347
+-- Top 2 acc: 95.899
+
+- Validation
+-- Loss: 0.442
+-- Acc: 85.965
+-- Top 2 acc: 97.544
+-- Balanced accuracy: 0.862
+-- AUC: 0.969
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.442
+-- Best loss so far: 0.442 on epoch 5
+
+2025-08-16 09:28:16,385 - Train-Logger - INFO - Metrics for epoch 6 out of 50
+- Train
+-- Loss: 0.451
+-- Acc: 84.946
+-- Top 2 acc: 96.532
+
+- Validation
+-- Loss: 0.375
+-- Acc: 87.895
+-- Top 2 acc: 97.368
+-- Balanced accuracy: 0.884
+-- AUC: 0.976
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.375
+-- Best loss so far: 0.375 on epoch 6
+
+2025-08-16 09:28:31,614 - Train-Logger - INFO - Metrics for epoch 7 out of 50
+- Train
+-- Loss: 0.381
+-- Acc: 87.473
+-- Top 2 acc: 96.890
+
+- Validation
+-- Loss: 0.321
+-- Acc: 88.772
+-- Top 2 acc: 97.719
+-- Balanced accuracy: 0.893
+-- AUC: 0.982
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.321
+-- Best loss so far: 0.321 on epoch 7
+
+2025-08-16 09:28:46,933 - Train-Logger - INFO - Metrics for epoch 8 out of 50
+- Train
+-- Loss: 0.330
+-- Acc: 89.009
+-- Top 2 acc: 97.793
+
+- Validation
+-- Loss: 0.294
+-- Acc: 89.825
+-- Top 2 acc: 97.544
+-- Balanced accuracy: 0.903
+-- AUC: 0.984
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.294
+-- Best loss so far: 0.294 on epoch 8
+
+2025-08-16 09:29:02,163 - Train-Logger - INFO - Metrics for epoch 9 out of 50
+- Train
+-- Loss: 0.302
+-- Acc: 90.315
+-- Top 2 acc: 97.883
+
+- Validation
+-- Loss: 0.291
+-- Acc: 90.000
+-- Top 2 acc: 97.719
+-- Balanced accuracy: 0.907
+-- AUC: 0.984
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.291
+-- Best loss so far: 0.291 on epoch 9
+
+2025-08-16 09:29:17,456 - Train-Logger - INFO - Metrics for epoch 10 out of 50
+- Train
+-- Loss: 0.255
+-- Acc: 91.573
+-- Top 2 acc: 98.108
+
+- Validation
+-- Loss: 0.255
+-- Acc: 91.228
+-- Top 2 acc: 97.719
+-- Balanced accuracy: 0.915
+-- AUC: 0.988
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.255
+-- Best loss so far: 0.255 on epoch 10
+
+2025-08-16 09:29:32,702 - Train-Logger - INFO - Metrics for epoch 11 out of 50
+- Train
+-- Loss: 0.240
+-- Acc: 91.215
+-- Top 2 acc: 98.062
+
+- Validation
+-- Loss: 0.237
+-- Acc: 91.228
+-- Top 2 acc: 98.421
+-- Balanced accuracy: 0.917
+-- AUC: 0.989
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.237
+-- Best loss so far: 0.237 on epoch 11
+
+2025-08-16 09:29:47,901 - Train-Logger - INFO - Metrics for epoch 12 out of 50
+- Train
+-- Loss: 0.204
+-- Acc: 93.062
+-- Top 2 acc: 98.378
+
+- Validation
+-- Loss: 0.207
+-- Acc: 92.456
+-- Top 2 acc: 98.947
+-- Balanced accuracy: 0.925
+-- AUC: 0.991
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.207
+-- Best loss so far: 0.207 on epoch 12
+
+2025-08-16 09:30:03,071 - Train-Logger - INFO - Metrics for epoch 13 out of 50
+- Train
+-- Loss: 0.196
+-- Acc: 93.602
+-- Top 2 acc: 98.243
+
+- Validation
+-- Loss: 0.216
+-- Acc: 92.632
+-- Top 2 acc: 98.947
+-- Balanced accuracy: 0.929
+-- AUC: 0.990
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.207 on epoch 12
+
+2025-08-16 09:30:18,218 - Train-Logger - INFO - Metrics for epoch 14 out of 50
+- Train
+-- Loss: 0.181
+-- Acc: 94.188
+-- Top 2 acc: 98.694
+
+- Validation
+-- Loss: 0.187
+-- Acc: 93.860
+-- Top 2 acc: 98.947
+-- Balanced accuracy: 0.940
+-- AUC: 0.992
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.187
+-- Best loss so far: 0.187 on epoch 14
+
+2025-08-16 09:30:33,434 - Train-Logger - INFO - Metrics for epoch 15 out of 50
+- Train
+-- Loss: 0.165
+-- Acc: 94.324
+-- Top 2 acc: 98.604
+
+- Validation
+-- Loss: 0.173
+-- Acc: 94.561
+-- Top 2 acc: 99.474
+-- Balanced accuracy: 0.947
+-- AUC: 0.993
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.173
+-- Best loss so far: 0.173 on epoch 15
+
+2025-08-16 09:30:48,632 - Train-Logger - INFO - Metrics for epoch 16 out of 50
+- Train
+-- Loss: 0.150
+-- Acc: 94.773
+-- Top 2 acc: 98.874
+
+- Validation
+-- Loss: 0.170
+-- Acc: 94.561
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.950
+-- AUC: 0.993
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.170
+-- Best loss so far: 0.170 on epoch 16
+
+2025-08-16 09:31:03,877 - Train-Logger - INFO - Metrics for epoch 17 out of 50
+- Train
+-- Loss: 0.152
+-- Acc: 95.179
+-- Top 2 acc: 98.782
+
+- Validation
+-- Loss: 0.161
+-- Acc: 94.912
+-- Top 2 acc: 99.474
+-- Balanced accuracy: 0.953
+-- AUC: 0.994
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.161
+-- Best loss so far: 0.161 on epoch 17
+
+2025-08-16 09:31:19,090 - Train-Logger - INFO - Metrics for epoch 18 out of 50
+- Train
+-- Loss: 0.127
+-- Acc: 96.216
+-- Top 2 acc: 98.874
+
+- Validation
+-- Loss: 0.142
+-- Acc: 95.263
+-- Top 2 acc: 99.825
+-- Balanced accuracy: 0.954
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.142
+-- Best loss so far: 0.142 on epoch 18
+
+2025-08-16 09:31:34,298 - Train-Logger - INFO - Metrics for epoch 19 out of 50
+- Train
+-- Loss: 0.136
+-- Acc: 95.315
+-- Top 2 acc: 99.144
+
+- Validation
+-- Loss: 0.133
+-- Acc: 95.789
+-- Top 2 acc: 99.649
+-- Balanced accuracy: 0.959
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.133
+-- Best loss so far: 0.133 on epoch 19
+
+2025-08-16 09:31:49,513 - Train-Logger - INFO - Metrics for epoch 20 out of 50
+- Train
+-- Loss: 0.119
+-- Acc: 96.261
+-- Top 2 acc: 99.054
+
+- Validation
+-- Loss: 0.129
+-- Acc: 95.614
+-- Top 2 acc: 99.825
+-- Balanced accuracy: 0.958
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.129
+-- Best loss so far: 0.129 on epoch 20
+
+2025-08-16 09:32:04,840 - Train-Logger - INFO - Metrics for epoch 21 out of 50
+- Train
+-- Loss: 0.106
+-- Acc: 96.709
+-- Top 2 acc: 99.189
+
+- Validation
+-- Loss: 0.126
+-- Acc: 95.965
+-- Top 2 acc: 99.825
+-- Balanced accuracy: 0.961
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.126
+-- Best loss so far: 0.126 on epoch 21
+
+2025-08-16 09:32:20,211 - Train-Logger - INFO - Metrics for epoch 22 out of 50
+- Train
+-- Loss: 0.092
+-- Acc: 97.252
+-- Top 2 acc: 99.595
+
+- Validation
+-- Loss: 0.126
+-- Acc: 95.789
+-- Top 2 acc: 99.649
+-- Balanced accuracy: 0.958
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.126 on epoch 21
+
+2025-08-16 09:32:35,403 - Train-Logger - INFO - Metrics for epoch 23 out of 50
+- Train
+-- Loss: 0.089
+-- Acc: 97.476
+-- Top 2 acc: 99.550
+
+- Validation
+-- Loss: 0.122
+-- Acc: 96.140
+-- Top 2 acc: 99.649
+-- Balanced accuracy: 0.962
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.122
+-- Best loss so far: 0.122 on epoch 23
+
+2025-08-16 09:32:50,705 - Train-Logger - INFO - Metrics for epoch 24 out of 50
+- Train
+-- Loss: 0.092
+-- Acc: 97.297
+-- Top 2 acc: 99.324
+
+- Validation
+-- Loss: 0.112
+-- Acc: 96.140
+-- Top 2 acc: 99.825
+-- Balanced accuracy: 0.962
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.112
+-- Best loss so far: 0.112 on epoch 24
+
+2025-08-16 09:33:06,041 - Train-Logger - INFO - Metrics for epoch 25 out of 50
+- Train
+-- Loss: 0.082
+-- Acc: 97.611
+-- Top 2 acc: 99.730
+
+- Validation
+-- Loss: 0.112
+-- Acc: 95.614
+-- Top 2 acc: 99.649
+-- Balanced accuracy: 0.956
+-- AUC: 0.997
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.112
+-- Best loss so far: 0.112 on epoch 25
+
+2025-08-16 09:33:21,315 - Train-Logger - INFO - Metrics for epoch 26 out of 50
+- Train
+-- Loss: 0.073
+-- Acc: 97.791
+-- Top 2 acc: 99.820
+
+- Validation
+-- Loss: 0.107
+-- Acc: 96.140
+-- Top 2 acc: 99.825
+-- Balanced accuracy: 0.964
+-- AUC: 0.997
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.107
+-- Best loss so far: 0.107 on epoch 26
+
+2025-08-16 09:33:36,609 - Train-Logger - INFO - Metrics for epoch 27 out of 50
+- Train
+-- Loss: 0.079
+-- Acc: 97.568
+-- Top 2 acc: 99.505
+
+- Validation
+-- Loss: 0.104
+-- Acc: 95.789
+-- Top 2 acc: 99.825
+-- Balanced accuracy: 0.958
+-- AUC: 0.997
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.104
+-- Best loss so far: 0.104 on epoch 27
+
+2025-08-16 09:33:51,921 - Train-Logger - INFO - Metrics for epoch 28 out of 50
+- Train
+-- Loss: 0.073
+-- Acc: 97.566
+-- Top 2 acc: 99.730
+
+- Validation
+-- Loss: 0.103
+-- Acc: 96.491
+-- Top 2 acc: 99.825
+-- Balanced accuracy: 0.968
+-- AUC: 0.997
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.103
+-- Best loss so far: 0.103 on epoch 28
+
+2025-08-16 09:34:07,174 - Train-Logger - INFO - Metrics for epoch 29 out of 50
+- Train
+-- Loss: 0.073
+-- Acc: 98.197
+-- Top 2 acc: 99.640
+
+- Validation
+-- Loss: 0.100
+-- Acc: 96.140
+-- Top 2 acc: 99.825
+-- Balanced accuracy: 0.964
+-- AUC: 0.997
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.100
+-- Best loss so far: 0.100 on epoch 29
+
+2025-08-16 09:34:22,418 - Train-Logger - INFO - Metrics for epoch 30 out of 50
+- Train
+-- Loss: 0.057
+-- Acc: 98.288
+-- Top 2 acc: 99.685
+
+- Validation
+-- Loss: 0.093
+-- Acc: 96.491
+-- Top 2 acc: 100.000
+-- Balanced accuracy: 0.966
+-- AUC: 0.997
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.093
+-- Best loss so far: 0.093 on epoch 30
+
+2025-08-16 09:34:37,714 - Train-Logger - INFO - Metrics for epoch 31 out of 50
+- Train
+-- Loss: 0.075
+-- Acc: 97.928
+-- Top 2 acc: 99.459
+
+- Validation
+-- Loss: 0.088
+-- Acc: 97.018
+-- Top 2 acc: 99.825
+-- Balanced accuracy: 0.970
+-- AUC: 0.997
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.088
+-- Best loss so far: 0.088 on epoch 31
+
+2025-08-16 09:34:52,895 - Train-Logger - INFO - Metrics for epoch 32 out of 50
+- Train
+-- Loss: 0.054
+-- Acc: 98.423
+-- Top 2 acc: 99.640
+
+- Validation
+-- Loss: 0.096
+-- Acc: 96.140
+-- Top 2 acc: 99.649
+-- Balanced accuracy: 0.964
+-- AUC: 0.998
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.088 on epoch 31
+
+2025-08-16 09:35:08,239 - Train-Logger - INFO - Metrics for epoch 33 out of 50
+- Train
+-- Loss: 0.056
+-- Acc: 98.422
+-- Top 2 acc: 99.505
+
+- Validation
+-- Loss: 0.093
+-- Acc: 96.316
+-- Top 2 acc: 99.649
+-- Balanced accuracy: 0.964
+-- AUC: 0.997
+
+- Training info
+-- Early stopping counting: 2 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.088 on epoch 31
+
+2025-08-16 09:35:23,618 - Train-Logger - INFO - Metrics for epoch 34 out of 50
+- Train
+-- Loss: 0.058
+-- Acc: 98.243
+-- Top 2 acc: 99.730
+
+- Validation
+-- Loss: 0.081
+-- Acc: 97.018
+-- Top 2 acc: 100.000
+-- Balanced accuracy: 0.972
+-- AUC: 0.997
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.081
+-- Best loss so far: 0.081 on epoch 34
+
+2025-08-16 09:35:38,878 - Train-Logger - INFO - Metrics for epoch 35 out of 50
+- Train
+-- Loss: 0.055
+-- Acc: 98.332
+-- Top 2 acc: 99.820
+
+- Validation
+-- Loss: 0.084
+-- Acc: 97.193
+-- Top 2 acc: 99.825
+-- Balanced accuracy: 0.975
+-- AUC: 0.997
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.081 on epoch 34
+
+2025-08-16 09:35:54,183 - Train-Logger - INFO - Metrics for epoch 36 out of 50
+- Train
+-- Loss: 0.054
+-- Acc: 98.153
+-- Top 2 acc: 99.910
+
+- Validation
+-- Loss: 0.075
+-- Acc: 97.368
+-- Top 2 acc: 99.825
+-- Balanced accuracy: 0.975
+-- AUC: 0.998
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.075
+-- Best loss so far: 0.075 on epoch 36
+
+2025-08-16 09:36:09,483 - Train-Logger - INFO - Metrics for epoch 37 out of 50
+- Train
+-- Loss: 0.044
+-- Acc: 98.333
+-- Top 2 acc: 99.910
+
+- Validation
+-- Loss: 0.086
+-- Acc: 96.842
+-- Top 2 acc: 99.649
+-- Balanced accuracy: 0.969
+-- AUC: 0.997
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.075 on epoch 36
+
+2025-08-16 09:36:24,801 - Train-Logger - INFO - Metrics for epoch 38 out of 50
+- Train
+-- Loss: 0.047
+-- Acc: 98.559
+-- Top 2 acc: 99.820
+
+- Validation
+-- Loss: 0.071
+-- Acc: 97.544
+-- Top 2 acc: 100.000
+-- Balanced accuracy: 0.975
+-- AUC: 0.998
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.071
+-- Best loss so far: 0.071 on epoch 38
+
+2025-08-16 09:36:40,106 - Train-Logger - INFO - Metrics for epoch 39 out of 50
+- Train
+-- Loss: 0.041
+-- Acc: 98.962
+-- Top 2 acc: 99.820
+
+- Validation
+-- Loss: 0.079
+-- Acc: 97.719
+-- Top 2 acc: 99.825
+-- Balanced accuracy: 0.978
+-- AUC: 0.997
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.071 on epoch 38
+
+2025-08-16 09:36:55,487 - Train-Logger - INFO - Metrics for epoch 40 out of 50
+- Train
+-- Loss: 0.036
+-- Acc: 98.919
+-- Top 2 acc: 99.820
+
+- Validation
+-- Loss: 0.080
+-- Acc: 97.193
+-- Top 2 acc: 99.825
+-- Balanced accuracy: 0.973
+-- AUC: 0.997
+
+- Training info
+-- Early stopping counting: 2 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.071 on epoch 38
+
+2025-08-16 09:37:10,751 - Train-Logger - INFO - Metrics for epoch 41 out of 50
+- Train
+-- Loss: 0.042
+-- Acc: 98.739
+-- Top 2 acc: 99.910
+
+- Validation
+-- Loss: 0.084
+-- Acc: 97.544
+-- Top 2 acc: 99.649
+-- Balanced accuracy: 0.975
+-- AUC: 0.998
+
+- Training info
+-- Early stopping counting: 3 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.071 on epoch 38
+
+2025-08-16 09:37:26,024 - Train-Logger - INFO - Metrics for epoch 42 out of 50
+- Train
+-- Loss: 0.035
+-- Acc: 99.054
+-- Top 2 acc: 99.865
+
+- Validation
+-- Loss: 0.083
+-- Acc: 97.544
+-- Top 2 acc: 99.649
+-- Balanced accuracy: 0.976
+-- AUC: 0.998
+
+- Training info
+-- Early stopping counting: 4 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.071 on epoch 38
+
+2025-08-16 09:37:41,321 - Train-Logger - INFO - Metrics for epoch 43 out of 50
+- Train
+-- Loss: 0.043
+-- Acc: 98.739
+-- Top 2 acc: 99.685
+
+- Validation
+-- Loss: 0.073
+-- Acc: 98.070
+-- Top 2 acc: 99.825
+-- Balanced accuracy: 0.981
+-- AUC: 0.998
+
+- Training info
+-- Early stopping counting: 5 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.071 on epoch 38
+
+2025-08-16 09:37:56,510 - Train-Logger - INFO - Metrics for epoch 44 out of 50
+- Train
+-- Loss: 0.032
+-- Acc: 99.279
+-- Top 2 acc: 99.865
+
+- Validation
+-- Loss: 0.080
+-- Acc: 97.719
+-- Top 2 acc: 99.825
+-- Balanced accuracy: 0.978
+-- AUC: 0.998
+
+- Training info
+-- Early stopping counting: 6 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.071 on epoch 38
+
+2025-08-16 09:38:11,841 - Train-Logger - INFO - Metrics for epoch 45 out of 50
+- Train
+-- Loss: 0.027
+-- Acc: 99.279
+-- Top 2 acc: 99.955
+
+- Validation
+-- Loss: 0.078
+-- Acc: 97.544
+-- Top 2 acc: 99.825
+-- Balanced accuracy: 0.976
+-- AUC: 0.998
+
+- Training info
+-- Early stopping counting: 7 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.071 on epoch 38
+
+2025-08-16 09:38:27,098 - Train-Logger - INFO - Metrics for epoch 46 out of 50
+- Train
+-- Loss: 0.037
+-- Acc: 98.964
+-- Top 2 acc: 99.865
+
+- Validation
+-- Loss: 0.083
+-- Acc: 97.719
+-- Top 2 acc: 99.825
+-- Balanced accuracy: 0.977
+-- AUC: 0.998
+
+- Training info
+-- Early stopping counting: 8 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.071 on epoch 38
+
+2025-08-16 09:38:42,392 - Train-Logger - INFO - Metrics for epoch 47 out of 50
+- Train
+-- Loss: 0.037
+-- Acc: 98.874
+-- Top 2 acc: 99.775
+
+- Validation
+-- Loss: 0.080
+-- Acc: 97.719
+-- Top 2 acc: 99.825
+-- Balanced accuracy: 0.978
+-- AUC: 0.998
+
+- Training info
+-- Early stopping counting: 9 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.071 on epoch 38
+
+2025-08-16 09:38:57,630 - Train-Logger - INFO - Metrics for epoch 48 out of 50
+- Train
+-- Loss: 0.031
+-- Acc: 99.009
+-- Top 2 acc: 99.955
+
+- Validation
+-- Loss: 0.085
+-- Acc: 97.544
+-- Top 2 acc: 99.649
+-- Balanced accuracy: 0.976
+-- AUC: 0.997
+
+- Training info
+-- Early stopping counting: 10 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.071 on epoch 38
+
+2025-08-16 09:39:12,937 - Train-Logger - INFO - Metrics for epoch 49 out of 50
+- Train
+-- Loss: 0.033
+-- Acc: 99.054
+-- Top 2 acc: 99.955
+
+- Validation
+-- Loss: 0.102
+-- Acc: 96.316
+-- Top 2 acc: 99.649
+-- Balanced accuracy: 0.964
+-- AUC: 0.997
+
+- Training info
+-- Early stopping counting: 11 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.071 on epoch 38
+
+2025-08-16 09:39:28,197 - Train-Logger - INFO - Metrics for epoch 50 out of 50
+- Train
+-- Loss: 0.027
+-- Acc: 99.234
+-- Top 2 acc: 99.865
+
+- Validation
+-- Loss: 0.091
+-- Acc: 97.544
+-- Top 2 acc: 99.825
+-- Balanced accuracy: 0.976
+-- AUC: 0.997
+
+- Training info
+-- Early stopping counting: 12 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.071 on epoch 38
+
+2025-08-16 09:39:35,983 - Train-Logger - INFO - Starting the training phase
+2025-08-16 09:39:35,983 - Train-Logger - INFO - No early stopping is set
+2025-08-16 09:39:35,983 - Train-Logger - INFO - The model will be trained from scratch
+2025-08-16 09:39:35,984 - Train-Logger - INFO - The training will be carry out using 1 GPU:
+2025-08-16 09:39:35,984 - Train-Logger - INFO - NVIDIA GeForce RTX 3060 Laptop GPU
+2025-08-16 09:39:51,326 - Train-Logger - INFO - Metrics for epoch 1 out of 50
+- Train
+-- Loss: 1.324
+-- Acc: 40.927
+-- Top 2 acc: 66.705
+
+- Validation
+-- Loss: 1.209
+-- Acc: 55.614
+-- Top 2 acc: 79.123
+-- Balanced accuracy: 0.500
+-- AUC: 0.858
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 1.209
+-- Best loss so far: 1.209 on epoch 1
+
+2025-08-16 09:40:06,663 - Train-Logger - INFO - Metrics for epoch 2 out of 50
+- Train
+-- Loss: 1.120
+-- Acc: 59.939
+-- Top 2 acc: 81.974
+
+- Validation
+-- Loss: 0.929
+-- Acc: 69.649
+-- Top 2 acc: 91.754
+-- Balanced accuracy: 0.659
+-- AUC: 0.928
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.929
+-- Best loss so far: 0.929 on epoch 2
+
+2025-08-16 09:40:21,987 - Train-Logger - INFO - Metrics for epoch 3 out of 50
+- Train
+-- Loss: 0.881
+-- Acc: 69.809
+-- Top 2 acc: 90.177
+
+- Validation
+-- Loss: 0.680
+-- Acc: 81.404
+-- Top 2 acc: 95.088
+-- Balanced accuracy: 0.820
+-- AUC: 0.948
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.680
+-- Best loss so far: 0.680 on epoch 3
+
+2025-08-16 09:40:37,289 - Train-Logger - INFO - Metrics for epoch 4 out of 50
+- Train
+-- Loss: 0.707
+-- Acc: 77.019
+-- Top 2 acc: 93.107
+
+- Validation
+-- Loss: 0.547
+-- Acc: 84.386
+-- Top 2 acc: 96.667
+-- Balanced accuracy: 0.857
+-- AUC: 0.962
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.547
+-- Best loss so far: 0.547 on epoch 4
+
+2025-08-16 09:40:52,645 - Train-Logger - INFO - Metrics for epoch 5 out of 50
+- Train
+-- Loss: 0.565
+-- Acc: 81.611
+-- Top 2 acc: 95.087
+
+- Validation
+-- Loss: 0.420
+-- Acc: 88.596
+-- Top 2 acc: 97.895
+-- Balanced accuracy: 0.890
+-- AUC: 0.972
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.420
+-- Best loss so far: 0.420 on epoch 5
+
+2025-08-16 09:41:07,904 - Train-Logger - INFO - Metrics for epoch 6 out of 50
+- Train
+-- Loss: 0.462
+-- Acc: 85.491
+-- Top 2 acc: 95.629
+
+- Validation
+-- Loss: 0.339
+-- Acc: 89.649
+-- Top 2 acc: 98.070
+-- Balanced accuracy: 0.905
+-- AUC: 0.982
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.339
+-- Best loss so far: 0.339 on epoch 6
+
+2025-08-16 09:41:23,294 - Train-Logger - INFO - Metrics for epoch 7 out of 50
+- Train
+-- Loss: 0.380
+-- Acc: 87.069
+-- Top 2 acc: 97.342
+
+- Validation
+-- Loss: 0.299
+-- Acc: 90.351
+-- Top 2 acc: 98.596
+-- Balanced accuracy: 0.908
+-- AUC: 0.985
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.299
+-- Best loss so far: 0.299 on epoch 7
+
+2025-08-16 09:41:38,546 - Train-Logger - INFO - Metrics for epoch 8 out of 50
+- Train
+-- Loss: 0.326
+-- Acc: 88.913
+-- Top 2 acc: 97.207
+
+- Validation
+-- Loss: 0.270
+-- Acc: 91.404
+-- Top 2 acc: 98.421
+-- Balanced accuracy: 0.921
+-- AUC: 0.987
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.270
+-- Best loss so far: 0.270 on epoch 8
+
+2025-08-16 09:41:53,835 - Train-Logger - INFO - Metrics for epoch 9 out of 50
+- Train
+-- Loss: 0.287
+-- Acc: 91.168
+-- Top 2 acc: 97.836
+
+- Validation
+-- Loss: 0.236
+-- Acc: 91.754
+-- Top 2 acc: 98.947
+-- Balanced accuracy: 0.924
+-- AUC: 0.989
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.236
+-- Best loss so far: 0.236 on epoch 9
+
+2025-08-16 09:42:09,255 - Train-Logger - INFO - Metrics for epoch 10 out of 50
+- Train
+-- Loss: 0.253
+-- Acc: 91.934
+-- Top 2 acc: 97.926
+
+- Validation
+-- Loss: 0.209
+-- Acc: 92.982
+-- Top 2 acc: 98.772
+-- Balanced accuracy: 0.935
+-- AUC: 0.991
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.209
+-- Best loss so far: 0.209 on epoch 10
+
+2025-08-16 09:42:24,625 - Train-Logger - INFO - Metrics for epoch 11 out of 50
+- Train
+-- Loss: 0.211
+-- Acc: 93.239
+-- Top 2 acc: 98.375
+
+- Validation
+-- Loss: 0.209
+-- Acc: 92.456
+-- Top 2 acc: 98.947
+-- Balanced accuracy: 0.930
+-- AUC: 0.991
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.209 on epoch 10
+
+2025-08-16 09:42:40,032 - Train-Logger - INFO - Metrics for epoch 12 out of 50
+- Train
+-- Loss: 0.215
+-- Acc: 92.791
+-- Top 2 acc: 98.242
+
+- Validation
+-- Loss: 0.192
+-- Acc: 93.860
+-- Top 2 acc: 98.772
+-- Balanced accuracy: 0.943
+-- AUC: 0.992
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.192
+-- Best loss so far: 0.192 on epoch 12
+
+2025-08-16 09:42:55,380 - Train-Logger - INFO - Metrics for epoch 13 out of 50
+- Train
+-- Loss: 0.192
+-- Acc: 93.872
+-- Top 2 acc: 98.333
+
+- Validation
+-- Loss: 0.179
+-- Acc: 94.035
+-- Top 2 acc: 98.947
+-- Balanced accuracy: 0.946
+-- AUC: 0.993
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.179
+-- Best loss so far: 0.179 on epoch 13
+
+2025-08-16 09:43:10,647 - Train-Logger - INFO - Metrics for epoch 14 out of 50
+- Train
+-- Loss: 0.165
+-- Acc: 94.818
+-- Top 2 acc: 99.098
+
+- Validation
+-- Loss: 0.162
+-- Acc: 95.263
+-- Top 2 acc: 98.947
+-- Balanced accuracy: 0.957
+-- AUC: 0.994
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.162
+-- Best loss so far: 0.162 on epoch 14
+
+2025-08-16 09:43:26,058 - Train-Logger - INFO - Metrics for epoch 15 out of 50
+- Train
+-- Loss: 0.159
+-- Acc: 95.045
+-- Top 2 acc: 99.009
+
+- Validation
+-- Loss: 0.159
+-- Acc: 94.561
+-- Top 2 acc: 98.947
+-- Balanced accuracy: 0.951
+-- AUC: 0.994
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.159
+-- Best loss so far: 0.159 on epoch 15
+
+2025-08-16 09:43:41,432 - Train-Logger - INFO - Metrics for epoch 16 out of 50
+- Train
+-- Loss: 0.151
+-- Acc: 94.865
+-- Top 2 acc: 99.054
+
+- Validation
+-- Loss: 0.152
+-- Acc: 94.737
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.952
+-- AUC: 0.994
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.152
+-- Best loss so far: 0.152 on epoch 16
+
+2025-08-16 09:43:56,869 - Train-Logger - INFO - Metrics for epoch 17 out of 50
+- Train
+-- Loss: 0.137
+-- Acc: 95.809
+-- Top 2 acc: 99.099
+
+- Validation
+-- Loss: 0.148
+-- Acc: 95.614
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.960
+-- AUC: 0.994
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.148
+-- Best loss so far: 0.148 on epoch 17
+
+2025-08-16 09:44:12,301 - Train-Logger - INFO - Metrics for epoch 18 out of 50
+- Train
+-- Loss: 0.122
+-- Acc: 95.944
+-- Top 2 acc: 99.369
+
+- Validation
+-- Loss: 0.139
+-- Acc: 95.789
+-- Top 2 acc: 98.947
+-- Balanced accuracy: 0.962
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.139
+-- Best loss so far: 0.139 on epoch 18
+
+2025-08-16 09:44:27,690 - Train-Logger - INFO - Metrics for epoch 19 out of 50
+- Train
+-- Loss: 0.113
+-- Acc: 96.757
+-- Top 2 acc: 99.234
+
+- Validation
+-- Loss: 0.140
+-- Acc: 95.965
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.963
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.139 on epoch 18
+
+2025-08-16 09:44:43,107 - Train-Logger - INFO - Metrics for epoch 20 out of 50
+- Train
+-- Loss: 0.112
+-- Acc: 96.937
+-- Top 2 acc: 99.279
+
+- Validation
+-- Loss: 0.138
+-- Acc: 95.263
+-- Top 2 acc: 99.298
+-- Balanced accuracy: 0.957
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.138
+-- Best loss so far: 0.138 on epoch 20
+
+2025-08-16 09:44:58,497 - Train-Logger - INFO - Metrics for epoch 21 out of 50
+- Train
+-- Loss: 0.087
+-- Acc: 97.162
+-- Top 2 acc: 99.730
+
+- Validation
+-- Loss: 0.130
+-- Acc: 95.789
+-- Top 2 acc: 99.298
+-- Balanced accuracy: 0.962
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.130
+-- Best loss so far: 0.130 on epoch 21
+
+2025-08-16 09:45:13,795 - Train-Logger - INFO - Metrics for epoch 22 out of 50
+- Train
+-- Loss: 0.091
+-- Acc: 97.207
+-- Top 2 acc: 99.730
+
+- Validation
+-- Loss: 0.132
+-- Acc: 95.965
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.963
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.130 on epoch 21
+
+2025-08-16 09:45:29,258 - Train-Logger - INFO - Metrics for epoch 23 out of 50
+- Train
+-- Loss: 0.086
+-- Acc: 97.432
+-- Top 2 acc: 99.459
+
+- Validation
+-- Loss: 0.126
+-- Acc: 96.140
+-- Top 2 acc: 99.298
+-- Balanced accuracy: 0.965
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.126
+-- Best loss so far: 0.126 on epoch 23
+
+2025-08-16 09:45:44,660 - Train-Logger - INFO - Metrics for epoch 24 out of 50
+- Train
+-- Loss: 0.081
+-- Acc: 97.613
+-- Top 2 acc: 99.550
+
+- Validation
+-- Loss: 0.128
+-- Acc: 96.491
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.968
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.126 on epoch 23
+
+2025-08-16 09:45:59,956 - Train-Logger - INFO - Metrics for epoch 25 out of 50
+- Train
+-- Loss: 0.072
+-- Acc: 97.838
+-- Top 2 acc: 99.685
+
+- Validation
+-- Loss: 0.126
+-- Acc: 95.965
+-- Top 2 acc: 98.947
+-- Balanced accuracy: 0.963
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 2 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.126 on epoch 23
+
+2025-08-16 09:46:15,441 - Train-Logger - INFO - Metrics for epoch 26 out of 50
+- Train
+-- Loss: 0.078
+-- Acc: 97.883
+-- Top 2 acc: 99.685
+
+- Validation
+-- Loss: 0.125
+-- Acc: 96.316
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.967
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.125
+-- Best loss so far: 0.125 on epoch 26
+
+2025-08-16 09:46:30,844 - Train-Logger - INFO - Metrics for epoch 27 out of 50
+- Train
+-- Loss: 0.075
+-- Acc: 97.926
+-- Top 2 acc: 99.685
+
+- Validation
+-- Loss: 0.131
+-- Acc: 96.140
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.965
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.125 on epoch 26
+
+2025-08-16 09:46:46,357 - Train-Logger - INFO - Metrics for epoch 28 out of 50
+- Train
+-- Loss: 0.063
+-- Acc: 98.514
+-- Top 2 acc: 99.730
+
+- Validation
+-- Loss: 0.121
+-- Acc: 96.491
+-- Top 2 acc: 98.947
+-- Balanced accuracy: 0.968
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.121
+-- Best loss so far: 0.121 on epoch 28
+
+2025-08-16 09:47:01,723 - Train-Logger - INFO - Metrics for epoch 29 out of 50
+- Train
+-- Loss: 0.064
+-- Acc: 97.928
+-- Top 2 acc: 99.820
+
+- Validation
+-- Loss: 0.122
+-- Acc: 96.491
+-- Top 2 acc: 99.298
+-- Balanced accuracy: 0.968
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.121 on epoch 28
+
+2025-08-16 09:47:17,136 - Train-Logger - INFO - Metrics for epoch 30 out of 50
+- Train
+-- Loss: 0.062
+-- Acc: 97.883
+-- Top 2 acc: 99.640
+
+- Validation
+-- Loss: 0.121
+-- Acc: 96.491
+-- Top 2 acc: 99.298
+-- Balanced accuracy: 0.968
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.121
+-- Best loss so far: 0.121 on epoch 30
+
+2025-08-16 09:47:32,578 - Train-Logger - INFO - Metrics for epoch 31 out of 50
+- Train
+-- Loss: 0.069
+-- Acc: 97.838
+-- Top 2 acc: 99.820
+
+- Validation
+-- Loss: 0.116
+-- Acc: 97.018
+-- Top 2 acc: 99.298
+-- Balanced accuracy: 0.973
+-- AUC: 0.997
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.116
+-- Best loss so far: 0.116 on epoch 31
+
+2025-08-16 09:47:48,134 - Train-Logger - INFO - Metrics for epoch 32 out of 50
+- Train
+-- Loss: 0.054
+-- Acc: 98.378
+-- Top 2 acc: 99.730
+
+- Validation
+-- Loss: 0.120
+-- Acc: 97.018
+-- Top 2 acc: 99.298
+-- Balanced accuracy: 0.973
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.116 on epoch 31
+
+2025-08-16 09:48:03,569 - Train-Logger - INFO - Metrics for epoch 33 out of 50
+- Train
+-- Loss: 0.051
+-- Acc: 98.288
+-- Top 2 acc: 100.000
+
+- Validation
+-- Loss: 0.126
+-- Acc: 97.193
+-- Top 2 acc: 99.474
+-- Balanced accuracy: 0.975
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 2 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.116 on epoch 31
+
+2025-08-16 09:48:18,935 - Train-Logger - INFO - Metrics for epoch 34 out of 50
+- Train
+-- Loss: 0.059
+-- Acc: 98.153
+-- Top 2 acc: 99.685
+
+- Validation
+-- Loss: 0.114
+-- Acc: 97.018
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.973
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.114
+-- Best loss so far: 0.114 on epoch 34
+
+2025-08-16 09:48:34,311 - Train-Logger - INFO - Metrics for epoch 35 out of 50
+- Train
+-- Loss: 0.052
+-- Acc: 98.016
+-- Top 2 acc: 99.910
+
+- Validation
+-- Loss: 0.115
+-- Acc: 97.018
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.973
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.114 on epoch 34
+
+2025-08-16 09:48:49,735 - Train-Logger - INFO - Metrics for epoch 36 out of 50
+- Train
+-- Loss: 0.039
+-- Acc: 98.649
+-- Top 2 acc: 99.865
+
+- Validation
+-- Loss: 0.113
+-- Acc: 96.842
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.971
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.113
+-- Best loss so far: 0.113 on epoch 36
+
+2025-08-16 09:49:05,107 - Train-Logger - INFO - Metrics for epoch 37 out of 50
+- Train
+-- Loss: 0.044
+-- Acc: 98.512
+-- Top 2 acc: 99.730
+
+- Validation
+-- Loss: 0.108
+-- Acc: 96.842
+-- Top 2 acc: 99.474
+-- Balanced accuracy: 0.971
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.108
+-- Best loss so far: 0.108 on epoch 37
+
+2025-08-16 09:49:20,453 - Train-Logger - INFO - Metrics for epoch 38 out of 50
+- Train
+-- Loss: 0.043
+-- Acc: 98.739
+-- Top 2 acc: 99.910
+
+- Validation
+-- Loss: 0.118
+-- Acc: 97.193
+-- Top 2 acc: 99.298
+-- Balanced accuracy: 0.975
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.108 on epoch 37
+
+2025-08-16 09:49:35,947 - Train-Logger - INFO - Metrics for epoch 39 out of 50
+- Train
+-- Loss: 0.038
+-- Acc: 98.964
+-- Top 2 acc: 99.910
+
+- Validation
+-- Loss: 0.122
+-- Acc: 96.491
+-- Top 2 acc: 98.947
+-- Balanced accuracy: 0.968
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 2 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.108 on epoch 37
+
+2025-08-16 09:49:51,416 - Train-Logger - INFO - Metrics for epoch 40 out of 50
+- Train
+-- Loss: 0.035
+-- Acc: 99.099
+-- Top 2 acc: 99.820
+
+- Validation
+-- Loss: 0.130
+-- Acc: 96.667
+-- Top 2 acc: 98.947
+-- Balanced accuracy: 0.970
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 3 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.108 on epoch 37
+
+2025-08-16 09:50:06,957 - Train-Logger - INFO - Metrics for epoch 41 out of 50
+- Train
+-- Loss: 0.045
+-- Acc: 98.784
+-- Top 2 acc: 99.865
+
+- Validation
+-- Loss: 0.120
+-- Acc: 96.842
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.971
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 4 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.108 on epoch 37
+
+2025-08-16 09:50:22,514 - Train-Logger - INFO - Metrics for epoch 42 out of 50
+- Train
+-- Loss: 0.035
+-- Acc: 98.964
+-- Top 2 acc: 99.865
+
+- Validation
+-- Loss: 0.121
+-- Acc: 96.842
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.971
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 5 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.108 on epoch 37
+
+2025-08-16 09:50:37,990 - Train-Logger - INFO - Metrics for epoch 43 out of 50
+- Train
+-- Loss: 0.034
+-- Acc: 99.189
+-- Top 2 acc: 99.865
+
+- Validation
+-- Loss: 0.125
+-- Acc: 96.667
+-- Top 2 acc: 99.298
+-- Balanced accuracy: 0.970
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 6 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.108 on epoch 37
+
+2025-08-16 09:50:53,380 - Train-Logger - INFO - Metrics for epoch 44 out of 50
+- Train
+-- Loss: 0.030
+-- Acc: 99.144
+-- Top 2 acc: 99.775
+
+- Validation
+-- Loss: 0.118
+-- Acc: 96.842
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.971
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 7 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.108 on epoch 37
+
+2025-08-16 09:51:08,868 - Train-Logger - INFO - Metrics for epoch 45 out of 50
+- Train
+-- Loss: 0.033
+-- Acc: 99.099
+-- Top 2 acc: 99.955
+
+- Validation
+-- Loss: 0.120
+-- Acc: 97.368
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.976
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 8 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.108 on epoch 37
+
+2025-08-16 09:51:24,316 - Train-Logger - INFO - Metrics for epoch 46 out of 50
+- Train
+-- Loss: 0.035
+-- Acc: 99.009
+-- Top 2 acc: 99.910
+
+- Validation
+-- Loss: 0.118
+-- Acc: 96.842
+-- Top 2 acc: 99.298
+-- Balanced accuracy: 0.971
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 9 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.108 on epoch 37
+
+2025-08-16 09:51:39,780 - Train-Logger - INFO - Metrics for epoch 47 out of 50
+- Train
+-- Loss: 0.039
+-- Acc: 98.871
+-- Top 2 acc: 99.910
+
+- Validation
+-- Loss: 0.115
+-- Acc: 97.193
+-- Top 2 acc: 99.298
+-- Balanced accuracy: 0.975
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 10 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.108 on epoch 37
+
+2025-08-16 09:51:55,197 - Train-Logger - INFO - Metrics for epoch 48 out of 50
+- Train
+-- Loss: 0.026
+-- Acc: 99.279
+-- Top 2 acc: 100.000
+
+- Validation
+-- Loss: 0.126
+-- Acc: 96.842
+-- Top 2 acc: 99.474
+-- Balanced accuracy: 0.971
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 11 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.108 on epoch 37
+
+2025-08-16 09:52:10,659 - Train-Logger - INFO - Metrics for epoch 49 out of 50
+- Train
+-- Loss: 0.023
+-- Acc: 99.189
+-- Top 2 acc: 99.910
+
+- Validation
+-- Loss: 0.126
+-- Acc: 96.667
+-- Top 2 acc: 99.298
+-- Balanced accuracy: 0.967
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 12 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.108 on epoch 37
+
+2025-08-16 09:52:26,106 - Train-Logger - INFO - Metrics for epoch 50 out of 50
+- Train
+-- Loss: 0.026
+-- Acc: 99.279
+-- Top 2 acc: 99.955
+
+- Validation
+-- Loss: 0.123
+-- Acc: 97.018
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.970
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 13 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.108 on epoch 37
+
+2025-08-16 09:52:33,890 - Train-Logger - INFO - Starting the training phase
+2025-08-16 09:52:33,890 - Train-Logger - INFO - No early stopping is set
+2025-08-16 09:52:33,890 - Train-Logger - INFO - The model will be trained from scratch
+2025-08-16 09:52:33,891 - Train-Logger - INFO - The training will be carry out using 1 GPU:
+2025-08-16 09:52:33,891 - Train-Logger - INFO - NVIDIA GeForce RTX 3060 Laptop GPU
+2025-08-16 09:52:49,458 - Train-Logger - INFO - Metrics for epoch 1 out of 50
+- Train
+-- Loss: 1.315
+-- Acc: 42.342
+-- Top 2 acc: 67.297
+
+- Validation
+-- Loss: 1.223
+-- Acc: 57.569
+-- Top 2 acc: 78.521
+-- Balanced accuracy: 0.511
+-- AUC: 0.852
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 1.223
+-- Best loss so far: 1.223 on epoch 1
+
+2025-08-16 09:53:05,067 - Train-Logger - INFO - Metrics for epoch 2 out of 50
+- Train
+-- Loss: 1.123
+-- Acc: 59.955
+-- Top 2 acc: 80.495
+
+- Validation
+-- Loss: 0.969
+-- Acc: 71.654
+-- Top 2 acc: 87.519
+-- Balanced accuracy: 0.671
+-- AUC: 0.920
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.969
+-- Best loss so far: 0.969 on epoch 2
+
+2025-08-16 09:53:20,645 - Train-Logger - INFO - Metrics for epoch 3 out of 50
+- Train
+-- Loss: 0.885
+-- Acc: 70.856
+-- Top 2 acc: 88.964
+
+- Validation
+-- Loss: 0.737
+-- Acc: 76.216
+-- Top 2 acc: 92.632
+-- Balanced accuracy: 0.743
+-- AUC: 0.938
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.737
+-- Best loss so far: 0.737 on epoch 3
+
+2025-08-16 09:53:36,125 - Train-Logger - INFO - Metrics for epoch 4 out of 50
+- Train
+-- Loss: 0.719
+-- Acc: 77.162
+-- Top 2 acc: 92.883
+
+- Validation
+-- Loss: 0.609
+-- Acc: 79.749
+-- Top 2 acc: 95.088
+-- Balanced accuracy: 0.795
+-- AUC: 0.947
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.609
+-- Best loss so far: 0.609 on epoch 4
+
+2025-08-16 09:53:51,688 - Train-Logger - INFO - Metrics for epoch 5 out of 50
+- Train
+-- Loss: 0.583
+-- Acc: 81.712
+-- Top 2 acc: 95.360
+
+- Validation
+-- Loss: 0.520
+-- Acc: 82.231
+-- Top 2 acc: 97.018
+-- Balanced accuracy: 0.828
+-- AUC: 0.955
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.520
+-- Best loss so far: 0.520 on epoch 5
+
+2025-08-16 09:54:07,253 - Train-Logger - INFO - Metrics for epoch 6 out of 50
+- Train
+-- Loss: 0.476
+-- Acc: 85.135
+-- Top 2 acc: 96.441
+
+- Validation
+-- Loss: 0.489
+-- Acc: 83.108
+-- Top 2 acc: 97.368
+-- Balanced accuracy: 0.841
+-- AUC: 0.957
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.489
+-- Best loss so far: 0.489 on epoch 6
+
+2025-08-16 09:54:22,932 - Train-Logger - INFO - Metrics for epoch 7 out of 50
+- Train
+-- Loss: 0.399
+-- Acc: 86.982
+-- Top 2 acc: 96.802
+
+- Validation
+-- Loss: 0.421
+-- Acc: 85.915
+-- Top 2 acc: 97.018
+-- Balanced accuracy: 0.868
+-- AUC: 0.969
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.421
+-- Best loss so far: 0.421 on epoch 7
+
+2025-08-16 09:54:38,506 - Train-Logger - INFO - Metrics for epoch 8 out of 50
+- Train
+-- Loss: 0.350
+-- Acc: 88.874
+-- Top 2 acc: 97.703
+
+- Validation
+-- Loss: 0.391
+-- Acc: 85.739
+-- Top 2 acc: 96.667
+-- Balanced accuracy: 0.864
+-- AUC: 0.972
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.391
+-- Best loss so far: 0.391 on epoch 8
+
+2025-08-16 09:54:54,072 - Train-Logger - INFO - Metrics for epoch 9 out of 50
+- Train
+-- Loss: 0.322
+-- Acc: 89.234
+-- Top 2 acc: 97.162
+
+- Validation
+-- Loss: 0.349
+-- Acc: 87.845
+-- Top 2 acc: 97.895
+-- Balanced accuracy: 0.884
+-- AUC: 0.977
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.349
+-- Best loss so far: 0.349 on epoch 9
+
+2025-08-16 09:55:09,595 - Train-Logger - INFO - Metrics for epoch 10 out of 50
+- Train
+-- Loss: 0.260
+-- Acc: 92.072
+-- Top 2 acc: 98.243
+
+- Validation
+-- Loss: 0.327
+-- Acc: 89.424
+-- Top 2 acc: 98.070
+-- Balanced accuracy: 0.906
+-- AUC: 0.980
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.327
+-- Best loss so far: 0.327 on epoch 10
+
+2025-08-16 09:55:25,033 - Train-Logger - INFO - Metrics for epoch 11 out of 50
+- Train
+-- Loss: 0.246
+-- Acc: 91.712
+-- Top 2 acc: 98.333
+
+- Validation
+-- Loss: 0.292
+-- Acc: 89.774
+-- Top 2 acc: 97.895
+-- Balanced accuracy: 0.910
+-- AUC: 0.984
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.292
+-- Best loss so far: 0.292 on epoch 11
+
+2025-08-16 09:55:40,490 - Train-Logger - INFO - Metrics for epoch 12 out of 50
+- Train
+-- Loss: 0.221
+-- Acc: 93.153
+-- Top 2 acc: 98.514
+
+- Validation
+-- Loss: 0.267
+-- Acc: 91.003
+-- Top 2 acc: 97.895
+-- Balanced accuracy: 0.921
+-- AUC: 0.986
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.267
+-- Best loss so far: 0.267 on epoch 12
+
+2025-08-16 09:55:56,149 - Train-Logger - INFO - Metrics for epoch 13 out of 50
+- Train
+-- Loss: 0.202
+-- Acc: 93.333
+-- Top 2 acc: 98.198
+
+- Validation
+-- Loss: 0.258
+-- Acc: 91.529
+-- Top 2 acc: 97.895
+-- Balanced accuracy: 0.925
+-- AUC: 0.987
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.258
+-- Best loss so far: 0.258 on epoch 13
+
+2025-08-16 09:56:11,679 - Train-Logger - INFO - Metrics for epoch 14 out of 50
+- Train
+-- Loss: 0.189
+-- Acc: 94.054
+-- Top 2 acc: 98.694
+
+- Validation
+-- Loss: 0.248
+-- Acc: 92.055
+-- Top 2 acc: 97.719
+-- Balanced accuracy: 0.932
+-- AUC: 0.989
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.248
+-- Best loss so far: 0.248 on epoch 14
+
+2025-08-16 09:56:27,350 - Train-Logger - INFO - Metrics for epoch 15 out of 50
+- Train
+-- Loss: 0.165
+-- Acc: 94.910
+-- Top 2 acc: 98.919
+
+- Validation
+-- Loss: 0.237
+-- Acc: 92.757
+-- Top 2 acc: 97.694
+-- Balanced accuracy: 0.938
+-- AUC: 0.990
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.237
+-- Best loss so far: 0.237 on epoch 15
+
+2025-08-16 09:56:42,867 - Train-Logger - INFO - Metrics for epoch 16 out of 50
+- Train
+-- Loss: 0.165
+-- Acc: 94.775
+-- Top 2 acc: 98.739
+
+- Validation
+-- Loss: 0.222
+-- Acc: 93.283
+-- Top 2 acc: 98.045
+-- Balanced accuracy: 0.943
+-- AUC: 0.991
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.222
+-- Best loss so far: 0.222 on epoch 16
+
+2025-08-16 09:56:58,487 - Train-Logger - INFO - Metrics for epoch 17 out of 50
+- Train
+-- Loss: 0.156
+-- Acc: 94.955
+-- Top 2 acc: 99.054
+
+- Validation
+-- Loss: 0.197
+-- Acc: 93.283
+-- Top 2 acc: 98.421
+-- Balanced accuracy: 0.943
+-- AUC: 0.992
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.197
+-- Best loss so far: 0.197 on epoch 17
+
+2025-08-16 09:57:14,039 - Train-Logger - INFO - Metrics for epoch 18 out of 50
+- Train
+-- Loss: 0.121
+-- Acc: 95.901
+-- Top 2 acc: 99.369
+
+- Validation
+-- Loss: 0.203
+-- Acc: 93.108
+-- Top 2 acc: 98.596
+-- Balanced accuracy: 0.941
+-- AUC: 0.992
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.197 on epoch 17
+
+2025-08-16 09:57:29,583 - Train-Logger - INFO - Metrics for epoch 19 out of 50
+- Train
+-- Loss: 0.118
+-- Acc: 96.622
+-- Top 2 acc: 99.189
+
+- Validation
+-- Loss: 0.198
+-- Acc: 93.659
+-- Top 2 acc: 98.596
+-- Balanced accuracy: 0.944
+-- AUC: 0.992
+
+- Training info
+-- Early stopping counting: 2 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.197 on epoch 17
+
+2025-08-16 09:57:45,240 - Train-Logger - INFO - Metrics for epoch 20 out of 50
+- Train
+-- Loss: 0.104
+-- Acc: 97.027
+-- Top 2 acc: 99.550
+
+- Validation
+-- Loss: 0.190
+-- Acc: 94.010
+-- Top 2 acc: 98.246
+-- Balanced accuracy: 0.948
+-- AUC: 0.992
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.190
+-- Best loss so far: 0.190 on epoch 20
+
+2025-08-16 09:58:00,868 - Train-Logger - INFO - Metrics for epoch 21 out of 50
+- Train
+-- Loss: 0.104
+-- Acc: 96.712
+-- Top 2 acc: 99.459
+
+- Validation
+-- Loss: 0.192
+-- Acc: 94.010
+-- Top 2 acc: 98.246
+-- Balanced accuracy: 0.948
+-- AUC: 0.993
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.190 on epoch 20
+
+2025-08-16 09:58:16,507 - Train-Logger - INFO - Metrics for epoch 22 out of 50
+- Train
+-- Loss: 0.104
+-- Acc: 96.802
+-- Top 2 acc: 99.550
+
+- Validation
+-- Loss: 0.176
+-- Acc: 94.010
+-- Top 2 acc: 98.596
+-- Balanced accuracy: 0.948
+-- AUC: 0.994
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.176
+-- Best loss so far: 0.176 on epoch 22
+
+2025-08-16 09:58:32,036 - Train-Logger - INFO - Metrics for epoch 23 out of 50
+- Train
+-- Loss: 0.091
+-- Acc: 97.117
+-- Top 2 acc: 99.730
+
+- Validation
+-- Loss: 0.179
+-- Acc: 94.010
+-- Top 2 acc: 98.421
+-- Balanced accuracy: 0.948
+-- AUC: 0.993
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.176 on epoch 22
+
+2025-08-16 09:58:47,620 - Train-Logger - INFO - Metrics for epoch 24 out of 50
+- Train
+-- Loss: 0.082
+-- Acc: 97.568
+-- Top 2 acc: 99.505
+
+- Validation
+-- Loss: 0.175
+-- Acc: 94.010
+-- Top 2 acc: 98.772
+-- Balanced accuracy: 0.948
+-- AUC: 0.994
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.175
+-- Best loss so far: 0.175 on epoch 24
+
+2025-08-16 09:59:03,181 - Train-Logger - INFO - Metrics for epoch 25 out of 50
+- Train
+-- Loss: 0.077
+-- Acc: 97.748
+-- Top 2 acc: 99.640
+
+- Validation
+-- Loss: 0.185
+-- Acc: 93.835
+-- Top 2 acc: 98.421
+-- Balanced accuracy: 0.946
+-- AUC: 0.993
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.175 on epoch 24
+
+2025-08-16 09:59:18,801 - Train-Logger - INFO - Metrics for epoch 26 out of 50
+- Train
+-- Loss: 0.090
+-- Acc: 96.982
+-- Top 2 acc: 99.505
+
+- Validation
+-- Loss: 0.170
+-- Acc: 94.361
+-- Top 2 acc: 98.596
+-- Balanced accuracy: 0.951
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.170
+-- Best loss so far: 0.170 on epoch 26
+
+2025-08-16 09:59:34,302 - Train-Logger - INFO - Metrics for epoch 27 out of 50
+- Train
+-- Loss: 0.079
+-- Acc: 97.207
+-- Top 2 acc: 99.640
+
+- Validation
+-- Loss: 0.171
+-- Acc: 93.835
+-- Top 2 acc: 98.596
+-- Balanced accuracy: 0.946
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.170 on epoch 26
+
+2025-08-16 09:59:49,989 - Train-Logger - INFO - Metrics for epoch 28 out of 50
+- Train
+-- Loss: 0.074
+-- Acc: 97.477
+-- Top 2 acc: 99.775
+
+- Validation
+-- Loss: 0.159
+-- Acc: 94.361
+-- Top 2 acc: 98.596
+-- Balanced accuracy: 0.951
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.159
+-- Best loss so far: 0.159 on epoch 28
+
+2025-08-16 10:00:05,580 - Train-Logger - INFO - Metrics for epoch 29 out of 50
+- Train
+-- Loss: 0.061
+-- Acc: 98.604
+-- Top 2 acc: 99.595
+
+- Validation
+-- Loss: 0.148
+-- Acc: 94.887
+-- Top 2 acc: 98.246
+-- Balanced accuracy: 0.956
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.148
+-- Best loss so far: 0.148 on epoch 29
+
+2025-08-16 10:00:21,095 - Train-Logger - INFO - Metrics for epoch 30 out of 50
+- Train
+-- Loss: 0.064
+-- Acc: 98.423
+-- Top 2 acc: 99.685
+
+- Validation
+-- Loss: 0.154
+-- Acc: 95.589
+-- Top 2 acc: 98.596
+-- Balanced accuracy: 0.962
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.148 on epoch 29
+
+2025-08-16 10:00:36,570 - Train-Logger - INFO - Metrics for epoch 31 out of 50
+- Train
+-- Loss: 0.079
+-- Acc: 97.613
+-- Top 2 acc: 99.685
+
+- Validation
+-- Loss: 0.143
+-- Acc: 94.887
+-- Top 2 acc: 98.421
+-- Balanced accuracy: 0.956
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.143
+-- Best loss so far: 0.143 on epoch 31
+
+2025-08-16 10:00:52,160 - Train-Logger - INFO - Metrics for epoch 32 out of 50
+- Train
+-- Loss: 0.057
+-- Acc: 98.468
+-- Top 2 acc: 99.820
+
+- Validation
+-- Loss: 0.153
+-- Acc: 94.887
+-- Top 2 acc: 98.421
+-- Balanced accuracy: 0.956
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.143 on epoch 31
+
+2025-08-16 10:01:07,709 - Train-Logger - INFO - Metrics for epoch 33 out of 50
+- Train
+-- Loss: 0.047
+-- Acc: 98.829
+-- Top 2 acc: 99.730
+
+- Validation
+-- Loss: 0.145
+-- Acc: 94.887
+-- Top 2 acc: 98.596
+-- Balanced accuracy: 0.956
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 2 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.143 on epoch 31
+
+2025-08-16 10:01:23,329 - Train-Logger - INFO - Metrics for epoch 34 out of 50
+- Train
+-- Loss: 0.067
+-- Acc: 97.793
+-- Top 2 acc: 99.550
+
+- Validation
+-- Loss: 0.151
+-- Acc: 94.712
+-- Top 2 acc: 98.246
+-- Balanced accuracy: 0.954
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 3 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.143 on epoch 31
+
+2025-08-16 10:01:38,814 - Train-Logger - INFO - Metrics for epoch 35 out of 50
+- Train
+-- Loss: 0.053
+-- Acc: 98.468
+-- Top 2 acc: 99.730
+
+- Validation
+-- Loss: 0.167
+-- Acc: 94.887
+-- Top 2 acc: 98.596
+-- Balanced accuracy: 0.956
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 4 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.143 on epoch 31
+
+2025-08-16 10:01:54,458 - Train-Logger - INFO - Metrics for epoch 36 out of 50
+- Train
+-- Loss: 0.051
+-- Acc: 98.514
+-- Top 2 acc: 99.865
+
+- Validation
+-- Loss: 0.139
+-- Acc: 95.414
+-- Top 2 acc: 98.596
+-- Balanced accuracy: 0.960
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.139
+-- Best loss so far: 0.139 on epoch 36
+
+2025-08-16 10:02:10,075 - Train-Logger - INFO - Metrics for epoch 37 out of 50
+- Train
+-- Loss: 0.048
+-- Acc: 98.559
+-- Top 2 acc: 99.730
+
+- Validation
+-- Loss: 0.156
+-- Acc: 95.414
+-- Top 2 acc: 98.772
+-- Balanced accuracy: 0.960
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.139 on epoch 36
+
+2025-08-16 10:02:25,640 - Train-Logger - INFO - Metrics for epoch 38 out of 50
+- Train
+-- Loss: 0.045
+-- Acc: 98.784
+-- Top 2 acc: 99.865
+
+- Validation
+-- Loss: 0.141
+-- Acc: 94.536
+-- Top 2 acc: 98.596
+-- Balanced accuracy: 0.952
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 2 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.139 on epoch 36
+
+2025-08-16 10:02:41,157 - Train-Logger - INFO - Metrics for epoch 39 out of 50
+- Train
+-- Loss: 0.047
+-- Acc: 98.559
+-- Top 2 acc: 99.820
+
+- Validation
+-- Loss: 0.134
+-- Acc: 95.238
+-- Top 2 acc: 98.947
+-- Balanced accuracy: 0.959
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.134
+-- Best loss so far: 0.134 on epoch 39
+
+2025-08-16 10:02:56,692 - Train-Logger - INFO - Metrics for epoch 40 out of 50
+- Train
+-- Loss: 0.037
+-- Acc: 98.964
+-- Top 2 acc: 99.910
+
+- Validation
+-- Loss: 0.132
+-- Acc: 95.414
+-- Top 2 acc: 99.298
+-- Balanced accuracy: 0.960
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 0 max to stop is None
+-- Current LR: 1e-05
+-- New best loss: 0.132
+-- Best loss so far: 0.132 on epoch 40
+
+2025-08-16 10:03:12,202 - Train-Logger - INFO - Metrics for epoch 41 out of 50
+- Train
+-- Loss: 0.032
+-- Acc: 99.279
+-- Top 2 acc: 99.910
+
+- Validation
+-- Loss: 0.142
+-- Acc: 95.063
+-- Top 2 acc: 98.772
+-- Balanced accuracy: 0.957
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 1 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.132 on epoch 40
+
+2025-08-16 10:03:27,736 - Train-Logger - INFO - Metrics for epoch 42 out of 50
+- Train
+-- Loss: 0.039
+-- Acc: 98.739
+-- Top 2 acc: 99.865
+
+- Validation
+-- Loss: 0.141
+-- Acc: 95.589
+-- Top 2 acc: 99.298
+-- Balanced accuracy: 0.962
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 2 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.132 on epoch 40
+
+2025-08-16 10:03:43,284 - Train-Logger - INFO - Metrics for epoch 43 out of 50
+- Train
+-- Loss: 0.035
+-- Acc: 98.919
+-- Top 2 acc: 100.000
+
+- Validation
+-- Loss: 0.143
+-- Acc: 95.238
+-- Top 2 acc: 98.772
+-- Balanced accuracy: 0.959
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 3 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.132 on epoch 40
+
+2025-08-16 10:03:58,844 - Train-Logger - INFO - Metrics for epoch 44 out of 50
+- Train
+-- Loss: 0.038
+-- Acc: 98.874
+-- Top 2 acc: 99.775
+
+- Validation
+-- Loss: 0.158
+-- Acc: 95.414
+-- Top 2 acc: 98.947
+-- Balanced accuracy: 0.960
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 4 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.132 on epoch 40
+
+2025-08-16 10:04:14,471 - Train-Logger - INFO - Metrics for epoch 45 out of 50
+- Train
+-- Loss: 0.027
+-- Acc: 99.369
+-- Top 2 acc: 99.820
+
+- Validation
+-- Loss: 0.141
+-- Acc: 94.887
+-- Top 2 acc: 98.947
+-- Balanced accuracy: 0.956
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 5 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.132 on epoch 40
+
+2025-08-16 10:04:30,035 - Train-Logger - INFO - Metrics for epoch 46 out of 50
+- Train
+-- Loss: 0.040
+-- Acc: 98.874
+-- Top 2 acc: 99.820
+
+- Validation
+-- Loss: 0.134
+-- Acc: 95.414
+-- Top 2 acc: 98.947
+-- Balanced accuracy: 0.960
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 6 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.132 on epoch 40
+
+2025-08-16 10:04:45,626 - Train-Logger - INFO - Metrics for epoch 47 out of 50
+- Train
+-- Loss: 0.037
+-- Acc: 98.784
+-- Top 2 acc: 99.820
+
+- Validation
+-- Loss: 0.149
+-- Acc: 95.238
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.959
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 7 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.132 on epoch 40
+
+2025-08-16 10:05:01,130 - Train-Logger - INFO - Metrics for epoch 48 out of 50
+- Train
+-- Loss: 0.037
+-- Acc: 98.649
+-- Top 2 acc: 99.820
+
+- Validation
+-- Loss: 0.161
+-- Acc: 95.063
+-- Top 2 acc: 98.947
+-- Balanced accuracy: 0.957
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 8 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.132 on epoch 40
+
+2025-08-16 10:05:16,779 - Train-Logger - INFO - Metrics for epoch 49 out of 50
+- Train
+-- Loss: 0.031
+-- Acc: 98.964
+-- Top 2 acc: 99.865
+
+- Validation
+-- Loss: 0.151
+-- Acc: 95.940
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.965
+-- AUC: 0.996
+
+- Training info
+-- Early stopping counting: 9 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.132 on epoch 40
+
+2025-08-16 10:05:32,213 - Train-Logger - INFO - Metrics for epoch 50 out of 50
+- Train
+-- Loss: 0.027
+-- Acc: 99.144
+-- Top 2 acc: 99.955
+
+- Validation
+-- Loss: 0.159
+-- Acc: 95.764
+-- Top 2 acc: 99.123
+-- Balanced accuracy: 0.963
+-- AUC: 0.995
+
+- Training info
+-- Early stopping counting: 10 max to stop is None
+-- Current LR: 1e-05
+-- Best loss so far: 0.132 on epoch 40
+

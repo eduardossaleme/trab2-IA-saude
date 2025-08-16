@@ -15,8 +15,6 @@ import torch.optim as optim
 import torch.nn as nn
 import time
 from glob import glob
-from sacred import Experiment
-from sacred.observers import FileStorageObserver
 import numpy as np
 from data_loader import get_labels_name,  create_data_loader
 from models.load_model import set_model
